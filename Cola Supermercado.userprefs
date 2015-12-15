@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ManejaClick.cs">
+    <Files>
+      <File FileName="Assets/Escalera/Scripts/EscalatorGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets/EliminarCliente.js" Line="1" Column="1" />
+      <File FileName="Assets/Escalera/Scripts/EscalatorAI.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ManejarClientes.cs" Line="1" Column="1" />
+      <File FileName="Assets/Escalera/Scripts/EscalatorEntrance.js" Line="1" Column="1" />
+      <File FileName="Assets/ManejaClick.cs" Line="24" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True" />
+            <Node name="ManejaClick.cs" selected="True" />
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Escalera" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
